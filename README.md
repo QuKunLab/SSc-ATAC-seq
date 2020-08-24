@@ -1,4 +1,4 @@
-# COVID-19
+# SSc ATAC-seq
 
 The Python Code for the analysis of bulk ATAC-seq data of SSc patients and healthy controls
 
