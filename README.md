@@ -1,8 +1,8 @@
-#COVID-19
+# COVID-19
 
 The Python Code for the analysis of bulk ATAC-seq data of SSc patients and healthy controls
 
-#1. Requirement
+## 1. Requirement
 
 We analyzed the scRNA-seq data in a Linux system with R (version 3.5.0) and Python (version 2.7) enviroment. The following software and packages are also required:
 
@@ -14,9 +14,9 @@ pandas 0.20.3 python
 seaborn 0.9.1 python
 scipy 0.19.1 python
 
-#2. Installation
+## 2. Installation
 
 Users need to copy the scripts to the same path as the "SourceData" folders, and run these scripts in Jupyter notebook.
 
-#3. Step by step analysis
+## 3. Step by step analysis
 
