@@ -26,7 +26,7 @@ scipy|0.19.1|python
 
 ## 2. Installation
 
-Users need to copy the scripts to the same path as the "SourceData" folders.
+Users need to copy the scripts to the same path as the "SourceData" folder.
 
 
 ## 3. Analysis
