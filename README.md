@@ -14,7 +14,7 @@ matplotlib|2.0.2|python
 pandas|0.20.3|python
 seaborn|0.9.1|python
 scipy|0.19.1|python
-homer|-|-
+homer|-|perl
 
 ## 2. Installation
 
