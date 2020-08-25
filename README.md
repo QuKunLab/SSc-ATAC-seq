@@ -17,7 +17,11 @@ scipy|0.19.1|python
 
 ## 2. Installation
 
-Users need to copy the scripts to the same path as the "SourceData" folders, and run these scripts in Jupyter notebook directly.
+Users need to copy the scripts to the same path as the "SourceData" folders.
+
+
+## 3. Analysis
+Users can run these scripts in Jupyter notebook directly, and get the figures of our paper.
 
 
 
