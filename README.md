@@ -15,6 +15,10 @@ pandas|0.20.3|python
 seaborn|0.9.1|python
 scipy|0.19.1|python
 
+-|-
+tools|version|
+homer|--
+
 ## 2. Installation
 
 Users need to copy the scripts to the same path as the "SourceData" folders.
