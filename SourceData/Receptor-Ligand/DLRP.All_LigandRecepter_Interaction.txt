@@ -1,0 +1,831 @@
+169228	DLK1	delta-like homolog (Drosophila)
+129053	NOTCH1	Notch (Drosophila) homolog 1 (translocation-associated)
+8121	NOTCH2	Notch (Drosophila) homolog 2
+8546	NOTCH3	Notch (Drosophila) homolog 3
+11689	NOTCH4	Notch (Drosophila) homolog 4
+
+91143	JAG1	jagged 1 (Alagille syndrome)
+129053	NOTCH1	Notch (Drosophila) homolog 1 (translocation-associated)
+8121	NOTCH2	Notch (Drosophila) homolog 2
+8546	NOTCH3	Notch (Drosophila) homolog 3
+11689	NOTCH4	Notch (Drosophila) homolog 4
+
+166154	JAG2	jagged 2
+129053	NOTCH1	Notch (Drosophila) homolog 1 (translocation-associated)
+8121	NOTCH2	Notch (Drosophila) homolog 2
+8546	NOTCH3	Notch (Drosophila) homolog 3
+11689	NOTCH4	Notch (Drosophila) homolog 4
+
+250500	DLL1	delta (Drosophila)-like 1
+129053	NOTCH1	Notch (Drosophila) homolog 1 (translocation-associated)
+8121	NOTCH2	Notch (Drosophila) homolog 2
+8546	NOTCH3	Notch (Drosophila) homolog 3
+11689	NOTCH4	Notch (Drosophila) homolog 4
+
+127792	DLL3	delta (Drosophila)-like 3
+129053	NOTCH1	Notch (Drosophila) homolog 1 (translocation-associated)
+8121	NOTCH2	Notch (Drosophila) homolog 2
+8546	NOTCH3	Notch (Drosophila) homolog 3
+11689	NOTCH4	Notch (Drosophila) homolog 4
+
+3736	DLL4	delta-like 4 homolog (Drosophila)
+129053	NOTCH1	Notch (Drosophila) homolog 1 (translocation-associated)
+8121	NOTCH2	Notch (Drosophila) homolog 2
+8546	NOTCH3	Notch (Drosophila) homolog 3
+11689	NOTCH4	Notch (Drosophila) homolog 4
+
+1624	EFNA1	ephrin-A1
+89839	EPHA1	EphA1
+171596	EPHA2	EphA2
+123642	EPHA3	EphA3
+73964	EPHA4	EphA4
+31092	EPHA5	EphA5
+73962	EPHA7	EphA7
+283613	EPHA8	EphA8
+
+158306	EFNA2	ephrin-A2
+89839	EPHA1	EphA1
+171596	EPHA2	EphA2
+123642	EPHA3	EphA3
+73964	EPHA4	EphA4
+31092	EPHA5	EphA5
+73962	EPHA7	EphA7
+283613	EPHA8	EphA8
+
+37054	EFNA3	ephrin-A3
+89839	EPHA1	EphA1
+171596	EPHA2	EphA2
+123642	EPHA3	EphA3
+73964	EPHA4	EphA4
+31092	EPHA5	EphA5
+73962	EPHA7	EphA7
+283613	EPHA8	EphA8
+
+42331	EFNA4	ephrin-A4
+89839	EPHA1	EphA1
+171596	EPHA2	EphA2
+123642	EPHA3	EphA3
+73964	EPHA4	EphA4
+31092	EPHA5	EphA5
+73962	EPHA7	EphA7
+283613	EPHA8	EphA8
+
+37142	EFNA5	ephrin-A5
+89839	EPHA1	EphA1
+171596	EPHA2	EphA2
+123642	EPHA3	EphA3
+73964	EPHA4	EphA4
+31092	EPHA5	EphA5
+73962	EPHA7	EphA7
+283613	EPHA8	EphA8
+
+144700	EFNB1	ephrin-B1
+78436	EPHB1	EphB1
+125124	EPHB2	EphB2
+2913	EPHB3	EphB3
+155227	EPHB4	EphB4
+3796	EPHB6	EphB6
+73964	EPHA4	EphA4
+
+30942	EFNB2	ephrin-B2
+78436	EPHB1	EphB1
+125124	EPHB2	EphB2
+2913	EPHB3	EphB3
+155227	EPHB4	EphB4
+3796	EPHB6	EphB6
+73964	EPHA4	EphA4
+
+26988	EFNB3	ephrin-B3
+78436	EPHB1	EphB1
+125124	EPHB2	EphB2
+2913	EPHB3	EphB3
+155227	EPHB4	EphB4
+3796	EPHB6	EphB6
+73964	EPHA4	EphA4
+
+241570	TNF	tumor necrosis factor (TNF superfamily, member 2)
+159	TNFRSF1A	tumor necrosis factor receptor superfamily, member 1A
+256278	TNFRSF1B	tumor necrosis factor receptor superfamily, member 1B
+1116	LTBR	lymphotoxin beta receptor (TNFR superfamily, member 3)
+
+99899	TNFSF7	tumor necrosis factor (ligand) superfamily, member 7
+180841	TNFRSF7	tumor necrosis factor receptor superfamily, member 7
+
+36	LTA	lymphotoxin alpha (TNF superfamily, member 1)
+159	TNFRSF1A	tumor necrosis factor receptor superfamily, member 1A
+256278	TNFRSF1B	tumor necrosis factor receptor superfamily, member 1B
+279899	TNFRSF14	tumor necrosis factor receptor superfamily, member 14 (herpesvirus entry mediator)
+1116	LTBR	lymphotoxin beta receptor (TNFR superfamily, member 3)
+
+1313	TNFSF8	tumor necrosis factor (ligand) superfamily, member 8
+1314	TNFRSF8	tumor necrosis factor receptor superfamily, member 8
+
+890	LTB	lymphotoxin beta (TNF superfamily, member 3)
+1116	LTBR	lymphotoxin beta receptor (TNFR superfamily, member 3)
+
+652	TNFSF5	tumor necrosis factor (ligand) superfamily, member 5 (hyper-IgM syndrome)
+25648	TNFRSF5	tumor necrosis factor receptor superfamily, member 5
+
+2007	TNFSF6	tumor necrosis factor (ligand) superfamily, member 6
+82359	TNFRSF6	tumor necrosis factor receptor superfamily, member 6
+348183	TNFRSF6B	tumor necrosis factor receptor superfamily, member 6b, decoy
+
+54673	TNFSF13	tumor necrosis factor (ligand) superfamily, member 13
+
+83429	TNFSF10	tumor necrosis factor (ligand) superfamily, member 10
+249190	TNFRSF10A	tumor necrosis factor receptor superfamily, member 10a
+51233	TNFRSF10B	tumor necrosis factor receptor superfamily, member 10b
+119684	TNFRSF10C	tumor necrosis factor receptor superfamily, member 10c, decoy without an intracellular domain
+129844	TNFRSF10D	tumor necrosis factor receptor superfamily, member 10d, decoy with truncated death domain
+81791	TNFRSF11B	tumor necrosis factor receptor superfamily, member 11b (osteoprotegerin)
+
+115770	TNFSF11	tumor necrosis factor (ligand) superfamily, member 11
+114676	TNFRSF11A	tumor necrosis factor receptor superfamily, member 11a, activator of NFKB
+81791	TNFRSF11B	tumor necrosis factor receptor superfamily, member 11b (osteoprotegerin)
+
+1524	TNFSF9	tumor necrosis factor (ligand) superfamily, member 9
+73895	TNFRSF9	tumor necrosis factor receptor superfamily, member 9
+
+181097	TNFSF4	tumor necrosis factor (ligand) superfamily, member 4 (tax-transcriptionally activated glycoprotein 1, 34kD)
+129780	TNFRSF4	tumor necrosis factor receptor superfamily, member 4
+
+129708	TNFSF14	tumor necrosis factor (ligand) superfamily, member 14
+279899	TNFRSF14	tumor necrosis factor receptor superfamily, member 14 (herpesvirus entry mediator)
+348183	TNFRSF6B	tumor necrosis factor receptor superfamily, member 6b, decoy
+1116	LTBR	lymphotoxin beta receptor (TNFR superfamily, member 3)
+
+26401	TNFSF12	tumor necrosis factor (ligand) superfamily, member 12
+180338	TNFRSF12	tumor necrosis factor receptor superfamily, member 12 (translocating chain-association membrane protein)
+
+248197	TNFSF18	tumor necrosis factor (ligand) superfamily, member 18
+212680	TNFRSF18	tumor necrosis factor receptor superfamily, member 18
+
+247956	IL2	Human interleukin 2 gene, clone pATtacIL-2C/2TT, complete cds, clone pATtacIL-2C/2TT
+1724	IL2RA	interleukin 2 receptor, alpha
+75596	IL2RB	interleukin 2 receptor, beta
+84	IL2RG	interleukin 2 receptor, gamma (severe combined immunodeficiency)
+
+89679	IL2	interleukin 2
+1724	IL2RA	interleukin 2 receptor, alpha
+75596	IL2RB	interleukin 2 receptor, beta
+84	IL2RG	interleukin 2 receptor, gamma (severe combined immunodeficiency)
+
+72927	IL7	interleukin 7
+237868	IL7R	interleukin 7 receptor
+84	IL2RG	interleukin 2 receptor, gamma (severe combined immunodeficiency)
+
+960	IL9	interleukin 9
+1702	IL9R	interleukin 9 receptor
+84	IL2RG	interleukin 2 receptor, gamma (severe combined immunodeficiency)
+
+168132	IL15	interleukin 15
+12503	IL15RA	interleukin 15 receptor, alpha
+75596	IL2RB	interleukin 2 receptor, beta
+84	IL2RG	interleukin 2 receptor, gamma (severe combined immunodeficiency)
+
+73917	IL4	interleukin 4
+75545	IL4R	interleukin 4 receptor
+84	IL2RG	interleukin 2 receptor, gamma (severe combined immunodeficiency)
+285115	IL13RA1	interleukin 13 receptor, alpha 1
+
+845	IL13	interleukin 13
+285115	IL13RA1	interleukin 13 receptor, alpha 1
+25954	IL13RA2	interleukin 13 receptor, alpha 2
+75545	IL4R	interleukin 4 receptor
+84	IL2RG	interleukin 2 receptor, gamma (severe combined immunodeficiency)
+
+694	IL3	interleukin 3 (colony-stimulating factor, multiple)
+172689	IL3RA	interleukin 3 receptor, alpha (low affinity)
+285401	CSF2RB	colony stimulating factor 2 receptor, beta, low-affinity (granulocyte-macrophage)
+
+2247	IL5	interleukin 5 (colony-stimulating factor, eosinophil)
+68876	IL5RA	interleukin 5 receptor, alpha
+285401	CSF2RB	colony stimulating factor 2 receptor, beta, low-affinity (granulocyte-macrophage)
+
+1349	CSF2	colony stimulating factor 2 (granulocyte-macrophage)
+182378	CSF2RA	colony stimulating factor 2 receptor, alpha, low-affinity (granulocyte-macrophage)
+285401	CSF2RB	colony stimulating factor 2 receptor, beta, low-affinity (granulocyte-macrophage)
+
+856	IFNG	interferon, gamma
+180866	IFNGR1	interferon gamma receptor 1
+177559	IFNGR2	interferon gamma receptor 2 (interferon gamma transducer 1)
+
+193717	IL10	interleukin 10
+327	IL10RA	interleukin 10 receptor, alpha
+173936	IL10RB	interleukin 10 receptor, beta
+
+41724	IL17	interleukin 17 (cytotoxic T-lymphocyte-associated serine esterase 8)
+129751	IL17R	interleukin 17 receptor
+
+82127	IL16	interleukin 16 (lymphocyte chemoattractant factor)
+17483	CD4	CD4 antigen (p55)
+
+673	IL12A	interleukin 12A (natural killer cell stimulatory factor 1, cytotoxic lymphocyte maturation factor 1, p35)
+121544	IL12RB1	interleukin 12 receptor, beta 1
+73165	IL12RB2	interleukin 12 receptor, beta 2
+
+674	IL12B	interleukin 12B (natural killer cell stimulatory factor 2, cytotoxic lymphocyte maturation factor 2, p40)
+121544	IL12RB1	interleukin 12 receptor, beta 1
+73165	IL12RB2	interleukin 12 receptor, beta 2
+
+1510	IFNA4	interferon, alpha 4
+1513	IFNAR1	interferon (alpha, beta and omega) receptor 1
+86958	IFNAR2	interferon (alpha, beta and omega) receptor 2
+
+37026	IFNA1	interferon, alpha 1
+1513	IFNAR1	interferon (alpha, beta and omega) receptor 1
+86958	IFNAR2	interferon (alpha, beta and omega) receptor 2
+
+37113	IFNA5	interferon, alpha 5
+1513	IFNAR1	interferon (alpha, beta and omega) receptor 1
+86958	IFNAR2	interferon (alpha, beta and omega) receptor 2
+
+56303	IFNA16	interferon, alpha 16
+1513	IFNAR1	interferon (alpha, beta and omega) receptor 1
+86958	IFNAR2	interferon (alpha, beta and omega) receptor 2
+
+73890	IFNA8	interferon, alpha 8
+1513	IFNAR1	interferon (alpha, beta and omega) receptor 1
+86958	IFNAR2	interferon (alpha, beta and omega) receptor 2
+
+93907	IFNA14	interferon, alpha 14
+1513	IFNAR1	interferon (alpha, beta and omega) receptor 1
+86958	IFNAR2	interferon (alpha, beta and omega) receptor 2
+
+113211	IFNA21	interferon, alpha 21
+1513	IFNAR1	interferon (alpha, beta and omega) receptor 1
+86958	IFNAR2	interferon (alpha, beta and omega) receptor 2
+
+211575	IFNA2	interferon, alpha 2
+1513	IFNAR1	interferon (alpha, beta and omega) receptor 1
+86958	IFNAR2	interferon (alpha, beta and omega) receptor 2
+
+306172	IFNA13	interferon, alpha 13
+1513	IFNAR1	interferon (alpha, beta and omega) receptor 1
+86958	IFNAR2	interferon (alpha, beta and omega) receptor 2
+
+247933	IFNA6	interferon, alpha 6
+1513	IFNAR1	interferon (alpha, beta and omega) receptor 1
+86958	IFNAR2	interferon (alpha, beta and omega) receptor 2
+
+282274	IFNA7	interferon, alpha 7
+1513	IFNAR1	interferon (alpha, beta and omega) receptor 1
+86958	IFNAR2	interferon (alpha, beta and omega) receptor 2
+
+282275	IFNA10	interferon, alpha 10
+1513	IFNAR1	interferon (alpha, beta and omega) receptor 1
+86958	IFNAR2	interferon (alpha, beta and omega) receptor 2
+
+282276	IFNA17	interferon, alpha 17
+1513	IFNAR1	interferon (alpha, beta and omega) receptor 1
+86958	IFNAR2	interferon (alpha, beta and omega) receptor 2
+
+73010	IFNW1	interferon, omega 1
+1513	IFNAR1	interferon (alpha, beta and omega) receptor 1
+86958	IFNAR2	interferon (alpha, beta and omega) receptor 2
+
+93177	IFNB1	interferon, beta 1, fibroblast
+1513	IFNAR1	interferon (alpha, beta and omega) receptor 1
+86958	IFNAR2	interferon (alpha, beta and omega) receptor 2
+
+1722	IL1A	interleukin 1, alpha
+82112	IL1R1	interleukin 1 receptor, type I
+25333	IL1R2	interleukin 1 receptor, type II
+
+126256	IL1B	interleukin 1, beta
+82112	IL1R1	interleukin 1 receptor, type I
+25333	IL1R2	interleukin 1 receptor, type II
+
+81134	IL1RN	interleukin 1 receptor antagonist
+#IL1RN is an antagonist
+82112	IL1R1	interleukin 1 receptor, type I
+25333	IL1R2	interleukin 1 receptor, type II
+
+83077	IL18	interleukin 18 (interferon-gamma-inducing factor)
+159301	IL18R1	interleukin 18 receptor 1
+158315	IL18RAP	interleukin 18 receptor accessory protein
+
+85112	IGF1	insulin-like growth factor 1 (somatomedin C)
+239176	IGF1R	insulin-like growth factor 1 receptor
+
+251664	IGF2	insulin-like growth factor 2 (somatomedin A)
+76473	IGF2R	insulin-like growth factor 2 receptor
+
+89832	INS	insulin
+89695	INSR	insulin receptor
+
+809	HGF	hepatocyte growth factor (hepapoietin A; scatter factor)
+285754	MET	met proto-oncogene (hepatocyte growth factor receptor)
+
+278657	MST1	macrophage stimulating 1 (hepatocyte growth factor-like)
+2942	MST1R	macrophage stimulating 1 receptor (c-met-related tyrosine kinase)
+
+75297	FGF1	fibroblast growth factor 1 (acidic)
+748	FGFR1	fibroblast growth factor receptor 1 (fms-related tyrosine kinase 2, Pfeiffer syndrome)
+278581	FGFR2	fibroblast growth factor receptor 2 (bacteria-expressed kinase, keratinocyte growth factor receptor, craniofacial dysostosis 1, Crouzon syndrome, Pfeiffer syndrome, Jackson-Weiss syndrome)
+1420	FGFR3	fibroblast growth factor receptor 3 (achondroplasia, thanatophoric dwarfism)
+165950	FGFR4	fibroblast growth factor receptor 4
+
+284244	FGF2	fibroblast growth factor 2 (basic)
+748	FGFR1	fibroblast growth factor receptor 1 (fms-related tyrosine kinase 2, Pfeiffer syndrome)
+278581	FGFR2	fibroblast growth factor receptor 2 (bacteria-expressed kinase, keratinocyte growth factor receptor, craniofacial dysostosis 1, Crouzon syndrome, Pfeiffer syndrome, Jackson-Weiss syndrome)
+1420	FGFR3	fibroblast growth factor receptor 3 (achondroplasia, thanatophoric dwarfism)
+165950	FGFR4	fibroblast growth factor receptor 4
+
+37092	FGF3	fibroblast growth factor 3 (murine mammary tumor virus integration site (v-int-2) oncogene homolog)
+748	FGFR1	fibroblast growth factor receptor 1 (fms-related tyrosine kinase 2, Pfeiffer syndrome)
+278581	FGFR2	fibroblast growth factor receptor 2 (bacteria-expressed kinase, keratinocyte growth factor receptor, craniofacial dysostosis 1, Crouzon syndrome, Pfeiffer syndrome, Jackson-Weiss syndrome)
+
+1755	FGF4	fibroblast growth factor 4 (heparin secretory transforming protein 1, Kaposi sarcoma oncogene)
+748	FGFR1	fibroblast growth factor receptor 1 (fms-related tyrosine kinase 2, Pfeiffer syndrome)
+278581	FGFR2	fibroblast growth factor receptor 2 (bacteria-expressed kinase, keratinocyte growth factor receptor, craniofacial dysostosis 1, Crouzon syndrome, Pfeiffer syndrome, Jackson-Weiss syndrome)
+1420	FGFR3	fibroblast growth factor receptor 3 (achondroplasia, thanatophoric dwarfism)
+165950	FGFR4	fibroblast growth factor receptor 4
+
+37055	FGF5	fibroblast growth factor 5
+748	FGFR1	fibroblast growth factor receptor 1 (fms-related tyrosine kinase 2, Pfeiffer syndrome)
+278581	FGFR2	fibroblast growth factor receptor 2 (bacteria-expressed kinase, keratinocyte growth factor receptor, craniofacial dysostosis 1, Crouzon syndrome, Pfeiffer syndrome, Jackson-Weiss syndrome)
+1420	FGFR3	fibroblast growth factor receptor 3 (achondroplasia, thanatophoric dwarfism)
+
+166015	FGF6	fibroblast growth factor 6
+748	FGFR1	fibroblast growth factor receptor 1 (fms-related tyrosine kinase 2, Pfeiffer syndrome)
+278581	FGFR2	fibroblast growth factor receptor 2 (bacteria-expressed kinase, keratinocyte growth factor receptor, craniofacial dysostosis 1, Crouzon syndrome, Pfeiffer syndrome, Jackson-Weiss syndrome)
+165950	FGFR4	fibroblast growth factor receptor 4
+
+164568	FGF7	fibroblast growth factor 7 (keratinocyte growth factor)
+278581	FGFR2	fibroblast growth factor receptor 2 (bacteria-expressed kinase, keratinocyte growth factor receptor, craniofacial dysostosis 1, Crouzon syndrome, Pfeiffer syndrome, Jackson-Weiss syndrome)
+
+57710	FGF8	fibroblast growth factor 8 (androgen-induced)
+278581	FGFR2	fibroblast growth factor receptor 2 (bacteria-expressed kinase, keratinocyte growth factor receptor, craniofacial dysostosis 1, Crouzon syndrome, Pfeiffer syndrome, Jackson-Weiss syndrome)
+1420	FGFR3	fibroblast growth factor receptor 3 (achondroplasia, thanatophoric dwarfism)
+165950	FGFR4	fibroblast growth factor receptor 4
+
+111	FGF9	fibroblast growth factor 9 (glia-activating factor)
+748	FGFR1	fibroblast growth factor receptor 1 (fms-related tyrosine kinase 2, Pfeiffer syndrome)
+278581	FGFR2	fibroblast growth factor receptor 2 (bacteria-expressed kinase, keratinocyte growth factor receptor, craniofacial dysostosis 1, Crouzon syndrome, Pfeiffer syndrome, Jackson-Weiss syndrome)
+1420	FGFR3	fibroblast growth factor receptor 3 (achondroplasia, thanatophoric dwarfism)
+165950	FGFR4	fibroblast growth factor receptor 4
+
+248049	FGF10	fibroblast growth factor 10
+748	FGFR1	fibroblast growth factor receptor 1 (fms-related tyrosine kinase 2, Pfeiffer syndrome)
+278581	FGFR2	fibroblast growth factor receptor 2 (bacteria-expressed kinase, keratinocyte growth factor receptor, craniofacial dysostosis 1, Crouzon syndrome, Pfeiffer syndrome, Jackson-Weiss syndrome)
+1420	FGFR3	fibroblast growth factor receptor 3 (achondroplasia, thanatophoric dwarfism)
+165950	FGFR4	fibroblast growth factor receptor 4
+
+31339	FGF11	fibroblast growth factor 11
+748	FGFR1	fibroblast growth factor receptor 1 (fms-related tyrosine kinase 2, Pfeiffer syndrome)
+278581	FGFR2	fibroblast growth factor receptor 2 (bacteria-expressed kinase, keratinocyte growth factor receptor, craniofacial dysostosis 1, Crouzon syndrome, Pfeiffer syndrome, Jackson-Weiss syndrome)
+1420	FGFR3	fibroblast growth factor receptor 3 (achondroplasia, thanatophoric dwarfism)
+165950	FGFR4	fibroblast growth factor receptor 4
+
+124752	FGF12	fibroblast growth factor 12
+748	FGFR1	fibroblast growth factor receptor 1 (fms-related tyrosine kinase 2, Pfeiffer syndrome)
+278581	FGFR2	fibroblast growth factor receptor 2 (bacteria-expressed kinase, keratinocyte growth factor receptor, craniofacial dysostosis 1, Crouzon syndrome, Pfeiffer syndrome, Jackson-Weiss syndrome)
+1420	FGFR3	fibroblast growth factor receptor 3 (achondroplasia, thanatophoric dwarfism)
+165950	FGFR4	fibroblast growth factor receptor 4
+
+343809	FGF12B	fibroblast growth factor 12B
+748	FGFR1	fibroblast growth factor receptor 1 (fms-related tyrosine kinase 2, Pfeiffer syndrome)
+278581	FGFR2	fibroblast growth factor receptor 2 (bacteria-expressed kinase, keratinocyte growth factor receptor, craniofacial dysostosis 1, Crouzon syndrome, Pfeiffer syndrome, Jackson-Weiss syndrome)
+1420	FGFR3	fibroblast growth factor receptor 3 (achondroplasia, thanatophoric dwarfism)
+165950	FGFR4	fibroblast growth factor receptor 4
+
+6540	FGF13	fibroblast growth factor 13
+748	FGFR1	fibroblast growth factor receptor 1 (fms-related tyrosine kinase 2, Pfeiffer syndrome)
+278581	FGFR2	fibroblast growth factor receptor 2 (bacteria-expressed kinase, keratinocyte growth factor receptor, craniofacial dysostosis 1, Crouzon syndrome, Pfeiffer syndrome, Jackson-Weiss syndrome)
+1420	FGFR3	fibroblast growth factor receptor 3 (achondroplasia, thanatophoric dwarfism)
+165950	FGFR4	fibroblast growth factor receptor 4
+
+197757	FGF14	fibroblast growth factor 14
+748	FGFR1	fibroblast growth factor receptor 1 (fms-related tyrosine kinase 2, Pfeiffer syndrome)
+278581	FGFR2	fibroblast growth factor receptor 2 (bacteria-expressed kinase, keratinocyte growth factor receptor, craniofacial dysostosis 1, Crouzon syndrome, Pfeiffer syndrome, Jackson-Weiss syndrome)
+1420	FGFR3	fibroblast growth factor receptor 3 (achondroplasia, thanatophoric dwarfism)
+165950	FGFR4	fibroblast growth factor receptor 4
+
+248193	FGF16	fibroblast growth factor 16
+748	FGFR1	fibroblast growth factor receptor 1 (fms-related tyrosine kinase 2, Pfeiffer syndrome)
+278581	FGFR2	fibroblast growth factor receptor 2 (bacteria-expressed kinase, keratinocyte growth factor receptor, craniofacial dysostosis 1, Crouzon syndrome, Pfeiffer syndrome, Jackson-Weiss syndrome)
+1420	FGFR3	fibroblast growth factor receptor 3 (achondroplasia, thanatophoric dwarfism)
+165950	FGFR4	fibroblast growth factor receptor 4
+
+248192	FGF17	fibroblast growth factor 17
+748	FGFR1	fibroblast growth factor receptor 1 (fms-related tyrosine kinase 2, Pfeiffer syndrome)
+278581	FGFR2	fibroblast growth factor receptor 2 (bacteria-expressed kinase, keratinocyte growth factor receptor, craniofacial dysostosis 1, Crouzon syndrome, Pfeiffer syndrome, Jackson-Weiss syndrome)
+1420	FGFR3	fibroblast growth factor receptor 3 (achondroplasia, thanatophoric dwarfism)
+165950	FGFR4	fibroblast growth factor receptor 4
+
+49585	FGF18	fibroblast growth factor 18
+748	FGFR1	fibroblast growth factor receptor 1 (fms-related tyrosine kinase 2, Pfeiffer syndrome)
+278581	FGFR2	fibroblast growth factor receptor 2 (bacteria-expressed kinase, keratinocyte growth factor receptor, craniofacial dysostosis 1, Crouzon syndrome, Pfeiffer syndrome, Jackson-Weiss syndrome)
+1420	FGFR3	fibroblast growth factor receptor 3 (achondroplasia, thanatophoric dwarfism)
+165950	FGFR4	fibroblast growth factor receptor 4
+
+249200	FGF19	fibroblast growth factor 19
+748	FGFR1	fibroblast growth factor receptor 1 (fms-related tyrosine kinase 2, Pfeiffer syndrome)
+278581	FGFR2	fibroblast growth factor receptor 2 (bacteria-expressed kinase, keratinocyte growth factor receptor, craniofacial dysostosis 1, Crouzon syndrome, Pfeiffer syndrome, Jackson-Weiss syndrome)
+1420	FGFR3	fibroblast growth factor receptor 3 (achondroplasia, thanatophoric dwarfism)
+165950	FGFR4	fibroblast growth factor receptor 4
+
+2561	NGFB	nerve growth factor, beta polypeptide
+85844	NTRK1	neurotrophic tyrosine kinase, receptor, type 1
+1827	NGFR	nerve growth factor receptor (TNFR superfamily, member 16)
+
+56023	BDNF	brain-derived neurotrophic factor
+47860	NTRK2	neurotrophic tyrosine kinase, receptor, type 2
+1827	NGFR	nerve growth factor receptor (TNFR superfamily, member 16)
+
+99171	NTF3	neurotrophin 3
+85844	NTRK1	neurotrophic tyrosine kinase, receptor, type 1
+47860	NTRK2	neurotrophic tyrosine kinase, receptor, type 2
+26776	NTRK3	neurotrophic tyrosine kinase, receptor, type 3
+1827	NGFR	nerve growth factor receptor (TNFR superfamily, member 16)
+
+266902	NTF5	neurotrophin 5 (neurotrophin 4/5)
+85844	NTRK1	neurotrophic tyrosine kinase, receptor, type 1
+47860	NTRK2	neurotrophic tyrosine kinase, receptor, type 2
+26776	NTRK3	neurotrophic tyrosine kinase, receptor, type 3
+1827	NGFR	nerve growth factor receptor (TNFR superfamily, member 16)
+
+1166	THPO	thrombopoietin (myeloproliferative leukemia virus oncogene ligand, megakaryocyte growth and development factor)
+84171	MPL	myeloproliferative leukemia virus oncogene
+
+2303	EPO	erythropoietin
+89548	EPOR	erythropoietin receptor
+
+2463	ANGPT1	angiopoietin 1
+89640	TEK	TEK tyrosine kinase, endothelial (venous malformations, multiple cutaneous and mucosal)
+
+115181	ANGPT2	angiopoietin 2
+89640	TEK	TEK tyrosine kinase, endothelial (venous malformations, multiple cutaneous and mucosal)
+
+241519	ANGPTL1	angiopoietin-like 1
+89640	TEK	TEK tyrosine kinase, endothelial (venous malformations, multiple cutaneous and mucosal)
+
+37040	PDGFA	platelet-derived growth factor alpha polypeptide
+74615	PDGFRA	platelet-derived growth factor receptor, alpha polypeptide
+
+1976	PDGFB	platelet-derived growth factor beta polypeptide (simian sarcoma viral (v-sis) oncogene homolog)
+74615	PDGFRA	platelet-derived growth factor receptor, alpha polypeptide
+76144	PDGFRB	platelet-derived growth factor receptor, beta polypeptide
+
+73793	VEGF	vascular endothelial growth factor
+138671	FLT1	fms-related tyrosine kinase 1 (vascular endothelial growth factor/vascular permeability factor receptor)
+12337	KDR	kinase insert domain receptor (a type III receptor tyrosine kinase)
+69285	NRP1	neuropilin 1
+17778	NRP2	neuropilin 2
+
+78781	VEGFB	vascular endothelial growth factor B
+138671	FLT1	fms-related tyrosine kinase 1 (vascular endothelial growth factor/vascular permeability factor receptor)
+69285	NRP1	neuropilin 1
+
+79141	VEGFC	vascular endothelial growth factor C
+12337	KDR	kinase insert domain receptor (a type III receptor tyrosine kinase)
+74049	FLT4	fms-related tyrosine kinase 4
+
+11392	FIGF	c-fos induced growth factor (vascular endothelial growth factor D)
+12337	KDR	kinase insert domain receptor (a type III receptor tyrosine kinase)
+74049	FLT4	fms-related tyrosine kinase 4
+
+2894	PGF	placental growth factor, vascular endothelial growth factor-related protein
+138671	FLT1	fms-related tyrosine kinase 1 (vascular endothelial growth factor/vascular permeability factor receptor)
+69285	NRP1	neuropilin 1
+
+2230	EGF	epidermal growth factor (beta-urogastrone)
+77432	EGFR	epidermal growth factor receptor (avian erythroblastic leukemia viral (v-erb-b) oncogene homolog)
+
+170009	TGFA	transforming growth factor, alpha
+77432	EGFR	epidermal growth factor receptor (avian erythroblastic leukemia viral (v-erb-b) oncogene homolog)
+
+270833	AREG	amphiregulin (schwannoma-derived growth factor)
+77432	EGFR	epidermal growth factor receptor (avian erythroblastic leukemia viral (v-erb-b) oncogene homolog)
+
+73105	BTC	betacellulin
+77432	EGFR	epidermal growth factor receptor (avian erythroblastic leukemia viral (v-erb-b) oncogene homolog)
+199067	ERBB3	v-erb-b2 avian erythroblastic leukemia viral oncogene homolog 3
+1939	ERBB4	v-erb-a avian erythroblastic leukemia viral oncogene homolog-like 4
+
+172816	NRG1	neuregulin 1
+1939	ERBB4	v-erb-a avian erythroblastic leukemia viral oncogene homolog-like 4
+199067	ERBB3	v-erb-b2 avian erythroblastic leukemia viral oncogene homolog 3
+323910	ERBB2	v-erb-b2 avian erythroblastic leukemia viral oncogene homolog 2 (neuro/glioblastoma derived oncogene homolog)
+
+799	DTR	diphtheria toxin receptor (heparin-binding epidermal growth factor-like growth factor)
+77432	EGFR	epidermal growth factor receptor (avian erythroblastic leukemia viral (v-erb-b) oncogene homolog)
+1939	ERBB4	v-erb-a avian erythroblastic leukemia viral oncogene homolog-like 4
+
+115263	EREG	epiregulin
+77432	EGFR	epidermal growth factor receptor (avian erythroblastic leukemia viral (v-erb-b) oncogene homolog)
+1939	ERBB4	v-erb-a avian erythroblastic leukemia viral oncogene homolog-like 4
+
+1721	IL11	interleukin 11
+64310	IL11RA	interleukin 11 receptor, alpha
+82065	IL6ST	interleukin 6 signal transducer (gp130, oncostatin M receptor)
+
+2233	CSF3	colony stimulating factor 3 (granulocyte)
+2175	CSF3R	colony stimulating factor 3 receptor (granulocyte)
+
+194236	LEP	leptin (murine obesity homolog)
+226627	LEPR	leptin receptor
+
+93913	IL6	interleukin 6 (interferon, beta 2)
+193400	IL6R	interleukin 6 receptor
+82065	IL6ST	interleukin 6 signal transducer (gp130, oncostatin M receptor)
+
+2250	LIF	leukemia inhibitory factor (cholinergic differentiation factor)
+2798	LIFR	leukemia inhibitory factor receptor
+82065	IL6ST	interleukin 6 signal transducer (gp130, oncostatin M receptor)
+
+25537	CTF1	cardiotrophin 1
+82065	IL6ST	interleukin 6 signal transducer (gp130, oncostatin M receptor)
+2798	LIFR	leukemia inhibitory factor receptor
+
+348372	CNTF	ciliary neurotrophic factor
+194774	CNTFR	ciliary neurotrophic factor receptor
+82065	IL6ST	interleukin 6 signal transducer (gp130, oncostatin M receptor)
+2798	LIFR	leukemia inhibitory factor receptor
+
+248156	OSM	oncostatin M
+238648	OSMR	oncostatin M receptor
+82065	IL6ST	interleukin 6 signal transducer (gp130, oncostatin M receptor)
+2798	LIFR	leukemia inhibitory factor receptor
+
+105927	SCGF	stem cell growth factor; lymphocyte secreted C-type lectin
+81665	KIT	v-kit Hardy-Zuckerman 4 feline sarcoma viral oncogene homolog
+
+428	FLT3LG	fms-related tyrosine kinase 3 ligand
+385	FLT3	fms-related tyrosine kinase 3
+
+173894	CSF1	colony stimulating factor 1 (macrophage)
+174142	CSF1R	colony stimulating factor 1 receptor, formerly McDonough feline sarcoma viral (v-fms) oncogene homolog
+
+82045	MDK	midkine (neurite growth-promoting factor 2)
+78867	PTPRZ1	protein tyrosine phosphatase, receptor-type, Z polypeptide 1
+123641	PTPRB	protein tyrosine phosphatase, receptor type, B
+
+44	PTN	pleiotrophin (heparin binding growth factor 8, neurite growth-promoting factor 1)
+78867	PTPRZ1	protein tyrosine phosphatase, receptor-type, Z polypeptide 1
+123641	PTPRB	protein tyrosine phosphatase, receptor type, B
+158287	KIAA0468	KIAA0468 gene product
+
+1103	TGFB1	transforming growth factor, beta 1
+220	TGFBR1	transforming growth factor, beta receptor I (activin A receptor type II-like kinase, 53kD)
+82028	TGFBR2	transforming growth factor, beta receptor II (70-80kD)
+342874	TGFBR3	transforming growth factor, beta receptor III (betaglycan, 300kD)
+
+169300	TGFB2	transforming growth factor, beta 2
+220	TGFBR1	transforming growth factor, beta receptor I (activin A receptor type II-like kinase, 53kD)
+82028	TGFBR2	transforming growth factor, beta receptor II (70-80kD)
+342874	TGFBR3	transforming growth factor, beta receptor III (betaglycan, 300kD)
+
+2025	TGFB3	transforming growth factor, beta 3
+220	TGFBR1	transforming growth factor, beta receptor I (activin A receptor type II-like kinase, 53kD)
+82028	TGFBR2	transforming growth factor, beta receptor II (70-80kD)
+342874	TGFBR3	transforming growth factor, beta receptor III (betaglycan, 300kD)
+
+73853	BMP2	bone morphogenetic protein 2
+2534	BMPR1A	bone morphogenetic protein receptor, type IA
+87223	BMPR1B	bone morphogenetic protein receptor, type IB
+53250	BMPR2	bone morphogenetic protein receptor, type II (serine/threonine kinase)
+150402	ACVR1	activin A receptor, type I
+26014	ACVR2	activin A receptor, type II
+23994	ACVR2B	activin A receptor, type IIB
+
+121507	BMP3	bone morphogenetic protein 3 (osteogenic)
+2534	BMPR1A	bone morphogenetic protein receptor, type IA
+87223	BMPR1B	bone morphogenetic protein receptor, type IB
+53250	BMPR2	bone morphogenetic protein receptor, type II (serine/threonine kinase)
+150402	ACVR1	activin A receptor, type I
+26014	ACVR2	activin A receptor, type II
+23994	ACVR2B	activin A receptor, type IIB
+
+68879	BMP4	bone morphogenetic protein 4
+2534	BMPR1A	bone morphogenetic protein receptor, type IA
+87223	BMPR1B	bone morphogenetic protein receptor, type IB
+53250	BMPR2	bone morphogenetic protein receptor, type II (serine/threonine kinase)
+150402	ACVR1	activin A receptor, type I
+26014	ACVR2	activin A receptor, type II
+23994	ACVR2B	activin A receptor, type IIB
+
+1104	BMP5	bone morphogenetic protein 5
+2534	BMPR1A	bone morphogenetic protein receptor, type IA
+87223	BMPR1B	bone morphogenetic protein receptor, type IB
+53250	BMPR2	bone morphogenetic protein receptor, type II (serine/threonine kinase)
+150402	ACVR1	activin A receptor, type I
+26014	ACVR2	activin A receptor, type II
+23994	ACVR2B	activin A receptor, type IIB
+
+285671	BMP6	bone morphogenetic protein 6
+2534	BMPR1A	bone morphogenetic protein receptor, type IA
+87223	BMPR1B	bone morphogenetic protein receptor, type IB
+53250	BMPR2	bone morphogenetic protein receptor, type II (serine/threonine kinase)
+150402	ACVR1	activin A receptor, type I
+26014	ACVR2	activin A receptor, type II
+23994	ACVR2B	activin A receptor, type IIB
+
+170195	BMP7	bone morphogenetic protein 7 (osteogenic protein 1)
+2534	BMPR1A	bone morphogenetic protein receptor, type IA
+87223	BMPR1B	bone morphogenetic protein receptor, type IB
+53250	BMPR2	bone morphogenetic protein receptor, type II (serine/threonine kinase)
+150402	ACVR1	activin A receptor, type I
+26014	ACVR2	activin A receptor, type II
+23994	ACVR2B	activin A receptor, type IIB
+
+99948	BMP8	bone morphogenetic protein 8 (osteogenic protein 2)
+2534	BMPR1A	bone morphogenetic protein receptor, type IA
+87223	BMPR1B	bone morphogenetic protein receptor, type IB
+53250	BMPR2	bone morphogenetic protein receptor, type II (serine/threonine kinase)
+150402	ACVR1	activin A receptor, type I
+26014	ACVR2	activin A receptor, type II
+23994	ACVR2B	activin A receptor, type IIB
+
+158317	BMP10	bone morphogenetic protein 10
+2534	BMPR1A	bone morphogenetic protein receptor, type IA
+87223	BMPR1B	bone morphogenetic protein receptor, type IB
+53250	BMPR2	bone morphogenetic protein receptor, type II (serine/threonine kinase)
+150402	ACVR1	activin A receptor, type I
+26014	ACVR2	activin A receptor, type II
+23994	ACVR2B	activin A receptor, type IIB
+
+247820	BMP15	bone morphogenetic protein 15
+2534	BMPR1A	bone morphogenetic protein receptor, type IA
+87223	BMPR1B	bone morphogenetic protein receptor, type IB
+53250	BMPR2	bone morphogenetic protein receptor, type II (serine/threonine kinase)
+150402	ACVR1	activin A receptor, type I
+26014	ACVR2	activin A receptor, type II
+23994	ACVR2B	activin A receptor, type IIB
+
+727	INHBA	inhibin, beta A (activin A, activin AB alpha polypeptide)
+150402	ACVR1	activin A receptor, type I
+99954	ACVR1B	activin A receptor, type IB
+26014	ACVR2	activin A receptor, type II
+23994	ACVR2B	activin A receptor, type IIB
+
+1735	INHBB	inhibin, beta B (activin AB beta polypeptide)
+150402	ACVR1	activin A receptor, type I
+99954	ACVR1B	activin A receptor, type IB
+26014	ACVR2	activin A receptor, type II
+23994	ACVR2B	activin A receptor, type IIB
+
+199538	INHBC	inhibin, beta C
+150402	ACVR1	activin A receptor, type I
+99954	ACVR1B	activin A receptor, type IB
+26014	ACVR2	activin A receptor, type II
+23994	ACVR2B	activin A receptor, type IIB
+
+1734	INHA	inhibin, alpha
+150402	ACVR1	activin A receptor, type I
+99954	ACVR1B	activin A receptor, type IB
+26014	ACVR2	activin A receptor, type II
+23994	ACVR2B	activin A receptor, type IIB
+
+112432	AMH	anti-Mullerian hormone
+123014	AMHR2	anti-Mullerian hormone receptor, type II
+
+3195	XCL1	small inducible cytokine subfamily C, member 1 (lymphotactin)
+248116	XCR1	chemokine (C motif) XC receptor 1
+
+174228	XCL2	small inducible cytokine subfamily C, member 2
+248116	XCR1	chemokine (C motif) XC receptor 1
+
+80420	CX3CL1	small inducible cytokine subfamily D (Cys-X3-Cys), member 1 (fractalkine, neurotactin)
+78913	CX3CR1	chemokine (C-X3-C) receptor 1
+
+16530	CCL18	small inducible cytokine subfamily A (Cys-Cys), member 18, pulmonary and activation-regulated
+
+54460	CCL11	small inducible cytokine subfamily A (Cys-Cys), member 11 (eotaxin)
+158324	CCR3	chemokine (C-C motif) receptor 3
+198252	CXCR3	G protein-coupled receptor 9
+#SCYA11 is a poor agonist or has weak affinity for GPR9, Murphy et al. (2000)
+54443	CCR5	chemokine (C-C motif) receptor 5
+#SCYA11 is a poor agonist or has weak affinity for CCR5, Murphy et al. (2000)
+117572	ACKR2	chemokine binding protein 2
+#SCYA11 is a poor agonist or has weak affinity for CCBP2, Murphy et al. (2000)
+
+247838	CCL24	small inducible cytokine subfamily A (Cys-Cys), member 24
+158324	CCR3	chemokine (C-C motif) receptor 3
+
+169191	CCL23	small inducible cytokine subfamily A (Cys-Cys), member 23
+301921	CCR1	chemokine (C-C motif) receptor 1
+
+20144	CCL14	small inducible cytokine subfamily A (Cys-Cys), member 14
+301921	CCR1	chemokine (C-C motif) receptor 1
+117572	CCBP2	chemokine binding protein 2
+
+10458	CCL16	small inducible cytokine subfamily A (Cys-Cys), member 16
+
+131342	CCL26	small inducible cytokine subfamily A (Cys-Cys), member 26
+158324	CCR3	chemokine (C-C motif) receptor 3
+
+73817	CCL3	small inducible cytokine A3 (homologous to mouse Mip-1a)
+301921	CCR1	chemokine (C-C motif) receptor 1
+54443	CCR5	chemokine (C-C motif) receptor 5
+
+75703	CCL4	small inducible cytokine A4 (homologous to mouse Mip-1b)
+54443	CCR5	chemokine (C-C motif) receptor 5
+113222	CCR8	chemokine (C-C motif) receptor 8
+#SCYA4 is a poor agonist or has weak affinity for CCR8, Murphy et al. (2000)
+301921	CCR1	chemokine (C-C motif) receptor 1
+#SCYA4 is a poor agonist or has weak affinity for CCR1, Murphy et al. (2000)
+117572	CCBP2	chemokine binding protein 2
+
+272493	CCL15	small inducible cytokine subfamily A (Cys-Cys), member 15
+301921	CCR1	chemokine (C-C motif) receptor 1
+158324	CCR3	chemokine (C-C motif) receptor 3
+
+72918	CCL1	small inducible cytokine A1 (I-309, homologous to mouse Tca-3)
+113222	CCR8	chemokine (C-C motif) receptor 8
+
+57907	CCL21	small inducible cytokine subfamily A (Cys-Cys), member 21
+1652	CCR7	chemokine (C-C motif) receptor 7
+198252	GPR9	G protein-coupled receptor 9
+#SCYA21 is a poor agonist or has weak affinity for GPR9, Murphy et al. (2000)
+
+241392	CCL5	small inducible cytokine A5 (RANTES)
+301921	CCR1	chemokine (C-C motif) receptor 1
+158324	CCR3	chemokine (C-C motif) receptor 3
+184926	CCR4	chemokine (C-C motif) receptor 4
+54443	CCR5	chemokine (C-C motif) receptor 5
+117572	CCBP2	chemokine binding protein 2
+
+303649	CCL2	small inducible cytokine A2 (monocyte chemotactic protein 1, homologous to mouse Sig-je)
+395	CCR2	chemokine (C-C motif) receptor 2
+301921	CCR1	chemokine (C-C motif) receptor 1
+117572	CCBP2	chemokine binding protein 2
+
+271387	CCL8	small inducible cytokine subfamily A (Cys-Cys), member 8 (monocyte chemotactic protein 2)
+395	CCR2	chemokine (C-C motif) receptor 2
+158324	CCR3	chemokine (C-C motif) receptor 3
+54443	CCR5	chemokine (C-C motif) receptor 5
+301921	CCR1	chemokine (C-C motif) receptor 1
+117572	CCBP2	chemokine binding protein 2
+
+225948	CCL27	small inducible cytokine subfamily A (Cys-Cys), member 27
+278446	CCR10	G protein-coupled receptor 2
+
+251526	CCL7	small inducible cytokine A7 (monocyte chemotactic protein 3)
+301921	CCR1	chemokine (C-C motif) receptor 1
+395	CCR2	chemokine (C-C motif) receptor 2
+158324	CCR3	chemokine (C-C motif) receptor 3
+54443	CCR5	chemokine (C-C motif) receptor 5
+#SCYA7 is an antagonist for CCR5, Murphy et al. (2000)
+117572	CCBP2	chemokine binding protein 2
+#SCYA7 is a poor agonist or has weak affinity for CCBP2, Murphy et al. (2000)
+
+11383	CCL13	small inducible cytokine subfamily A (Cys-Cys), member 13
+395	CCR2	chemokine (C-C motif) receptor 2
+158324	CCR3	chemokine (C-C motif) receptor 3
+301921	CCR1	chemokine (C-C motif) receptor 1
+54443	CCR5	chemokine (C-C motif) receptor 5
+#SCYA13 is a poor agonist or has weak affinity for CCR5, Murphy et al. (2000)
+117572	CCBP2	chemokine binding protein 2
+
+66742	CCL17	small inducible cytokine subfamily A (Cys-Cys), member 17
+184926	CCR4	chemokine (C-C motif) receptor 4
+113222	CCR8	chemokine (C-C motif) receptor 8
+#SCYA17 is a poor agonist or has weak affinity for CCR8, Murphy et al. (2000)
+
+75498	CCL20	small inducible cytokine subfamily A (Cys-Cys), member 20
+46468	CCR6	chemokine (C-C motif) receptor 6
+
+50002	CCL19	small inducible cytokine subfamily A (Cys-Cys), member 19
+1652	CCR7	chemokine (C-C motif) receptor 7
+
+50404	CCL25	small inducible cytokine subfamily A (Cys-Cys), member 25
+225946	CCR9	chemokine (C-C motif) receptor 9
+
+97203	CCL22	small inducible cytokine subfamily A (Cys-Cys), member 22
+184926	CCR4	chemokine (C-C motif) receptor 4
+
+624	CXCL8	interleukin 8
+194778	CXCR1	interleukin 8 receptor, alpha
+846	CXCR2	interleukin 8 receptor, beta
+
+164021	CXCL6	small inducible cytokine subfamily B (Cys-X-Cys), member 6 (granulocyte chemotactic protein 2)
+194778	CXCR1	interleukin 8 receptor, alpha
+846	CXCR2	interleukin 8 receptor, beta
+
+77367	CXCL9	monokine induced by gamma interferon
+198252	CXCR3	G protein-coupled receptor 9
+
+237356	CXCL12	stromal cell-derived factor 1
+89414	CXCR4	chemokine (C-X-C motif), receptor 4 (fusin)
+
+103982	CXCL11	small inducible cytokine subfamily B (Cys-X-Cys), member 11
+198252	CXCR3	G protein-coupled receptor 9
+
+89714	CXCL5	small inducible cytokine subfamily B (Cys-X-Cys), member 5 (epithelial-derived neutrophil-activating peptide 78)
+846	CXCR2	interleukin 8 receptor, beta
+194778	CXCR1	interleukin 8 receptor, alpha
+#SCYB5 is a poor agonist or has weak affinity for IL8RA, Murphy et al. (2000)
+
+2248	CXCL10	small inducible cytokine subfamily B (Cys-X-Cys), member 10
+198252	CXCR3	G protein-coupled receptor 9
+
+2164	CXCL7	pro-platelet basic protein (includes platelet basic protein, beta-thromboglobulin, connective tissue-activating peptide III, neutrophil-activating peptide-2)
+846	CXCR2	interleukin 8 receptor, beta
+
+89690	CXCL1	GRO3 oncogene
+846	CXCR2	interleukin 8 receptor, beta
+
+100431	CXCL13	small inducible cytokine B subfamily (Cys-X-Cys motif), member 13 (B-cell chemoattractant)
+113916	CXCR5	Burkitt lymphoma receptor 1, GTP-binding protein
