@@ -1,4 +1,4 @@
-	CD4_NormSkin_M_34	CD4_NormSkin_M_43	CD8_NormSkin_M_34	CD8_NormSkin_M_43	DC_NormSkin_M_34	DC_NormSkin_M_21	LC_Norm_51	LC_Norm_54	Fib_NormSkin_F_42	Fib_NormSkin_F_44	Fib_NormSkin_M_24	Fib_NormSkin_M_43	CD31_NormSkin_F_42	CD31_NormSkin_F_44	CD31_NormSkin_M_43	Mac_NormSkin_M_34	KC_Norm_47	KC_Norm_48	KC_Norm_54
+	CD4_NormSkin_M_34	CD4_NormSkin_M_43	CD8_NormSkin_M_34	CD8_NormSkin_M_43	DC_NormSkin_M_34	DC_NormSkin_M_21	LC_Norm_51	LC_Norm_54	Fib_NormSkin_F_42	Fib_NormSkin_F_44	Fib_NormSkin_M_24	Fib_NormSkin_M_43	EC_NormSkin_F_42	EC_NormSkin_F_44	EC_NormSkin_M_43	Mac_NormSkin_M_34	KC_Norm_47	KC_Norm_48	KC_Norm_54
 Bach1(bZIP)/K562-Bach1-ChIP-Seq(GSE31477)/Homer	-6.1826253	0.0	0.0	0.0	0.0	0.0	-7.5459266	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	11.094533	12.303821	13.693537
 IRF:BATF(IRF:bZIP)/pDC-Irf8-ChIP-Seq(GSE66899)/Homer	12.216552	12.206876	10.455063	0.0	8.602888	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	-6.2723784
 BORIS(Zf)/K562-CTCFL-ChIP-Seq(GSE32465)/Homer	16.684502	16.821657	16.643425	5.098291	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
