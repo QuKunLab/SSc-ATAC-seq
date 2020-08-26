@@ -4,7 +4,7 @@ The Python Code for the analysis of bulk ATAC-seq data of SSc patients and healt
 
 ## 1. Requirement
 
-We analyzed the scRNA-seq data in a Linux system with Python (version 2.7) enviroment. The following software and packages are also required:
+We analyzed the scRNA-seq data in a Linux system with Python (version 2.7),R (version 3.5) enviroment. The following software and packages are also required:
 
 software|version|enviroment
 -|-|-
@@ -21,6 +21,7 @@ matplotlib|2.0.2|python
 pandas|0.20.3|python
 seaborn|0.9.1|python
 scipy|0.19.1|python
+circlize|-|R
 
 
 
